@@ -1,0 +1,5 @@
+train: C:\minwoin\miniproject\SmartFactory\pc\dataset\images\train
+val: C:\minwoin\miniproject\SmartFactory\pc\dataset\images\val
+
+nc: 9
+names: ['ground', 'car', 'A', 'B', 'C', 'D', 'E', 'F', 'G']
